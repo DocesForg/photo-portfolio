@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Art & Lens",
+  "name": "Art & Lens - портфолио Художника и Фотографа", 
   "icons": [
     {
       "src": "favicon.ico",
